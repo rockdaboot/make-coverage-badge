@@ -10,7 +10,7 @@ Usage
 Example
 -------
 
-  ./make-coverage-badge "coverage" "92.30%"
+  ./make-coverage-badge "fuzz-coverage" "92.30%"
 
 This creates a badge.svg like this one:
 [![fuzz coverage status](https://libidn.gitlab.io/libidn2/fuzz-coverage/badge.svg)](https://libidn.gitlab.io/libidn2/fuzz-coverage)
